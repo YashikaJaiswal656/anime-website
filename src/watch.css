@@ -1,0 +1,20 @@
+.container iframe{
+    height: 654px;
+    width: 100%;
+    background-size: cover;
+}
+.container h1{
+    color: white;
+    margin-bottom: 20px;
+}
+.container p{
+    line-height: 30px;
+    color: #b7b7b7;
+    font-size: 18px;
+    margin-top: 20px;
+}
+@media screen and (max-width:600px) {
+    .container iframe{
+        height: 400px;
+    }
+}
