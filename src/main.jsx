@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './App'
+import App from './app'
 import { BrowserRouter , Routes, Route, Link } from "react-router-dom";
 import Details from './details';
 import Watching from './watching';
